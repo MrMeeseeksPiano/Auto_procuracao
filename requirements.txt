@@ -1,0 +1,6 @@
+pdfplumber
+streamlit
+docxtpl
+re
+io
+datetime
